@@ -1,0 +1,115 @@
+/* src/Components/Login.css */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    
+  
+}
+/* .gbody
+{
+  background-image:url("https://media.licdn.com/dms/image/D5612AQHmWpsKqCEUgQ/article-cover_image-shrink_600_2000/0/1692110377639?e=2147483647&v=beta&t=61b3z7n63D8ABJOVLQKG4W6iObvwTBn-ZuMabStZugM");
+  /* background-repeat: no-repeat; */
+/* background-size: 1367px 660px; */
+/* background-size: cover; */
+/* } */ 
+/* .gh
+{
+  background-color:blue;
+} */
+  
+  .login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 700px;
+    margin-left:350px;
+    padding-top: 30px;
+  }
+ 
+  
+  .box78 {
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    width:410px;
+    height:500px;
+    margin-left: 300px;
+    
+  }
+  
+  
+  
+  .login-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .yu6 {
+   
+    
+    color: #333;
+    font-size: 36px;
+  }
+  
+  label.tyr {
+    display: block;
+    width: 100%; /* Ensure the label takes full width */
+    margin-bottom: 10px;
+    color: #555;
+    font-size: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button.gh {
+    width: 100%;
+    padding: 14px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 10px;
+  }
+  .homy {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start; /* Align content to the left side */
+  }
+  
+  .homy img {
+    width: 800px;
+    height: 650px;
+    padding-left: 8px;
+    margin-right: 100px;
+    padding-top: 45px;
+  }
+  
