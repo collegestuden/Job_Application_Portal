@@ -1,0 +1,28 @@
+.searc-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-right: 100px;
+    margin-left: 100px;
+
+   
+  }
+  
+  .searc-bar input {
+    flex: 1;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    height:50px;
+  }
+  
+  .yut {
+    padding: 0.5rem 1rem;
+    background-color: #cd8c38;
+    color: #1e1f26;
+    border: none;
+    border-radius: 2rem;
+    cursor: pointer;
+    margin-right:100px ;
+  }
+ 
+  
